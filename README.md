@@ -1,7 +1,7 @@
-## ml_nano
+# ml_nano
 Udacity Machine Learning Engineer Nanodegree
 
-# Jupyter Data Science Notebook Docker Image
+## Jupyter Data Science Notebook Docker Image
 The following command starts a container with the Notebook server listening for HTTP connections on port 8888 with a randomly generated authentication token configured.
 
 docker run -it --rm -p 8888:8888 jupyter/datascience-notebook
